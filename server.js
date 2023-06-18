@@ -24,9 +24,6 @@ app.get('*', (req, res) => {
 })
 
 
-// POST route
-
-
 
 app.listen(PORT, () =>
     console.log(`App listening at http://localhost:${PORT} 🚀`)
