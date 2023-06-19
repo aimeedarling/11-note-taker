@@ -76,3 +76,12 @@ body {
   padding: 20px;
   cursor: pointer;
 }
+
+#start-btn .btn-primary {
+  background-color: pink !important;
+  border-color: hotpink !important;
+  color: hotpink !important;
+}
+#navbar {
+  background-color: pink !important;
+}
