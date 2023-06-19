@@ -77,7 +77,8 @@ body {
   cursor: pointer;
 }
 
-#start-btn .btn-primary {
+/* changes to CSS */
+#start-btn {
   background-color: pink !important;
   border-color: hotpink !important;
   color: hotpink !important;
