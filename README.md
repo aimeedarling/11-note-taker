@@ -20,6 +20,9 @@ use the note taker
 
 ## Usage
 ----
+
+![alt text ="screenshot of app'](assets/Screenshot%202023-06-25%20at%2012.01.14%20AM.png)
+
 The users is able to save notes with a title and delete the notes when they are no longer needed. 
 
 Please view a video of a demonstrating the functionality [here](https://drive.google.com/file/d/1HoqP7h63c-5o1cBkPFEfQdb5t12SwejC/view).  
