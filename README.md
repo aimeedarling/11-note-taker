@@ -21,7 +21,7 @@ use the note taker
 ## Usage
 ----
 
-![alt text ="screenshot of app'](assets/Screenshot%202023-06-25%20at%2012.01.14%20AM.png)
+![alt text ="screenshot of app'](/Assets/Screenshot%202023-06-25%20at%2012.01.14%20AM.png)
 
 The users is able to save notes with a title and delete the notes when they are no longer needed. 
 
