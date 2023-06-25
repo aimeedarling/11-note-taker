@@ -21,7 +21,7 @@ use the note taker
 ## Usage
 ----
 
-![alt text ="screenshot of app'](/public/assets/Screenshot%202023-06-25%20at%2012.01.14%20AM.png)
+![image](https://github.com/aimeedarling/note-taker/assets/127796444/413526cc-f72c-48ee-8110-fbc869ec6550)
 
 The users is able to save notes with a title and delete the notes when they are no longer needed. 
 
